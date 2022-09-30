@@ -1,0 +1,6 @@
+*.ipynb_checkpoints
+*config.py*
+*diagnostic.data*
+*storage.bson
+*__pycache__*
+*.DS_Store
